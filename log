@@ -26,8 +26,8 @@ fatal: A branch named 'master' already exists.
 To git@github.com:deballer/deballer.github.io.git
    8879cd5..0bf7743  master -> master
 wait..
-3 deletions(-)
-To git@github.com:deballer/deballer.github.io.git
+fatal: A branch named 'master' already exists.
+ler.github.io.git
    20b51c3..8879cd5  master -> master
 wait..
 fatal: A branch named 'master' already exists.
