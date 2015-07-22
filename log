@@ -14,8 +14,8 @@ fatal: A branch named 'master' already exists.
 To git@github.com:deballer/deballer.github.io.git
    635822a..bce1959  master -> master
 wait..
-list.txt (60%)
-To git@github.com:deballer/deballer.github.io.git
+fatal: A branch named 'master' already exists.
+ler.github.io.git
    e06c799..635822a  master -> master
 wait..
 fatal: A branch named 'master' already exists.
