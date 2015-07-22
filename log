@@ -39,13 +39,15 @@ To git@github.com:deballer/deballer.github.io.git
    23a50bd..3842ca2  master -> master
 wait..
 fatal: A branch named 'master' already exists.
-it@github.com:deballer/deballer.github.io.git
-   b366295..23a50bd  master -> master
+[master 9a8f110] e..
+ 2 files changed, 19 insertions(+), 20 deletions(-)
+ rewrite list.txt (60%)
+To git@github.com:deballer/deballer.github.io.git
+   d528603..9a8f110  master -> master
 wait..
-fatal: A branch named 'master' already exists.
-[master d528603] e..
- 2 files changed, 23 insertions(+), 22 deletions(-)
+), 22 deletions(-)
  rewrite list.txt (60%)
 To git@github.com:deballer/deballer.github.io.git
    3842ca2..d528603  master -> master
 wait..
+fatal: A branch named 'master' already exists.
