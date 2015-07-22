@@ -6,3 +6,14 @@ M	ipreport
 M	ipreport.cpp
 M	list.txt
 M	log
+[master 3384484] e..
+ 5 files changed, 25 insertions(+), 28 deletions(-)
+ rewrite list.txt (61%)
+ rewrite log (82%)
+To git@github.com:deballer/deballer.github.io.git
+   8143bc4..3384484  master -> master
+wait..
+Already on 'master'
+M	index.html
+M	list.txt
+M	log
