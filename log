@@ -71,3 +71,9 @@ To git@github.com:deballer/deballer.github.io.git
    bae7c46..932cc11  master -> master
 wait..
 fatal: A branch named 'master' already exists.
+[master b4cc8a5] e..
+ 2 files changed, 21 insertions(+), 20 deletions(-)
+ rewrite list.txt (61%)
+To git@github.com:deballer/deballer.github.io.git
+   e1f6a38..b4cc8a5  master -> master
+wait..
