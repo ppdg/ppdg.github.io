@@ -6,3 +6,14 @@ M	ipreport
 M	ipreport.cpp
 M	list.txt
 M	log
+[master b15890d] e..
+ 5 files changed, 23 insertions(+), 276 deletions(-)
+ rewrite list.txt (63%)
+ rewrite log (97%)
+To git@github.com:ppdg/ppdg.github.io.git
+   52a248e..b15890d  master -> master
+wait..
+Already on 'master'
+M	index.html
+M	list.txt
+M	log
