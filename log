@@ -73,13 +73,14 @@ To git@github.com:deballer/deballer.github.io.git
    b4cc8a5..362c424  master -> master
 wait..
 fatal: A branch named 'master' already exists.
-rite list.txt (61%)
+[master f26836e] e..
+ 2 files changed, 17 insertions(+), 17 deletions(-)
+ rewrite list.txt (61%)
 To git@github.com:deballer/deballer.github.io.git
-   e1f6a38..b4cc8a5  master -> master
+   a5c6ade..f26836e  master -> master
 wait..
-fatal: A branch named 'master' already exists.
-[master a5c6ade] e..
- 2 files changed, 13 insertions(+), 12 deletions(-)
+changed, 13 insertions(+), 12 deletions(-)
 To git@github.com:deballer/deballer.github.io.git
    362c424..a5c6ade  master -> master
 wait..
+fatal: A branch named 'master' already exists.
