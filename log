@@ -1,11 +1,8 @@
-Agent pid 29973
+Agent pid 30837
 Identity added: /home/wangfan/.ssh/ppdggh (/home/wangfan/.ssh/ppdggh)
-fatal: A branch named 'master' already exists.
-[master 17b381b] e..
- 6 files changed, 19 insertions(+), 104 deletions(-)
- rewrite ipreport (70%)
- rewrite log (98%)
-To git@github.com:deballer/deballer.github.io.git
-   f277a44..17b381b  master -> master
-wait..
-./run.sh: line 4: 29975 Terminated              ./ipreport
+Already on 'master'
+M	index.html
+M	ipreport
+M	ipreport.cpp
+M	list.txt
+M	log

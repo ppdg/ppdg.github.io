@@ -78,7 +78,7 @@ int main()
 	     fprintf(fp,"\n<li>%s %s</li>",active_list[i].ip,active_list[i].name);
 	}
 	fclose(fp);
-	system("git checkout -b master");
+	system("git checkout master");
 	system("git add .");
 	system("git commit -m \"e..\"");
 	system("git push -f origin master");
