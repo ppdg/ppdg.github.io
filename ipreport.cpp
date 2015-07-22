@@ -8,7 +8,7 @@ using namespace std;
 #define IP_KNOWN "known.conf"
 #define IP_LIST "list.txt"
 #define STR_SIZE 200
-
+#define WT 60*15
 struct node
 {
    char ip[STR_SIZE];
@@ -32,6 +32,7 @@ char * findNode(char * ip)
 
 int main()
 {
+	while(1){
 	FILE * fp = fopen(IP_KNOWN,"r");
 	if(!fp)
 	{
@@ -72,5 +73,12 @@ int main()
 	     fprintf(fp,"\n<li>%s %s</li>",active_list[i].ip,active_list[i].name);
 	}
 	fclose(fp);
+	system("git checkout -b gh-pages");
+	system("git add .");
+	system("git commit -m \"e..\"");
+	system("git push -f origin gh-pages");
+	fprintf(stderr,"wait..\n");
+	sleep(WT);
+	}
 	return 0;
 }
