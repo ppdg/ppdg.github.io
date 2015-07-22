@@ -67,3 +67,13 @@ Already on 'master'
 M	index.html
 M	list.txt
 M	log
+[master f2e81eb] e..
+ 3 files changed, 24 insertions(+), 17 deletions(-)
+ rewrite list.txt (61%)
+To git@github.com:deballer/deballer.github.io.git
+   5a296ff..f2e81eb  master -> master
+wait..
+Already on 'master'
+M	index.html
+M	list.txt
+M	log
