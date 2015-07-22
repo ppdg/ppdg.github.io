@@ -72,7 +72,7 @@ int main()
 	struct tm * p;
 	time(&timep);
 	p = localtime(&timep);
-	fprintf(fp,"<title>knocking on the heaven's door.</title>\n<br>Gait Active\n<br>Last updated: %d-%d-%d-%d-%d-%d\n<br>",1900+p->tm_year,1+p->tm_mon,p->tm_mday,p->tm_hour,p->tm_min,p->tm_sec);
+	fprintf(fp,"<title>knocking on the heaven's door.</title>\n<br>Gait Active\n<br>Last updated: %d-%d-%d %d:%d:%d\n<br>",1900+p->tm_year,1+p->tm_mon,p->tm_mday,p->tm_hour,p->tm_min,p->tm_sec);
 	for(i=0;i<active_cnt;i++)
 	{
 	     fprintf(fp,"\n<li>%s %s</li>",active_list[i].ip,active_list[i].name);
