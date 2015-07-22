@@ -253,3 +253,9 @@ Already on 'master'
 M	index.html
 M	list.txt
 M	log
+[master 35040a6] e..
+ 3 files changed, 17 insertions(+), 7 deletions(-)
+To git@github.com:deballer/deballer.github.io.git
+   afb7413..35040a6  master -> master
+wait..
+./run.sh: line 4: 30839 Terminated              ./ipreport
