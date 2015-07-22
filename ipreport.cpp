@@ -2,6 +2,7 @@
 #include <cstdio>
 #include <cstdlib>
 #include <cstring>
+#include <time.h>
 using namespace std;
 
 #define IP_RANGE "10.2.7.128/25"
@@ -67,7 +68,10 @@ int main()
 
 	fp = fopen("index.html","w");
 	int i;
-	fprintf(fp,"<title>knocking on the heaven's door.</title>\n<br>Gait Active");
+	time_t timep;
+	struct tm * p;
+	time(&timep);
+	fprintf(fp,"<title>knocking on the heaven's door.</title>\n<br>Gait Active\n<br>Last updated: %d-%d-%d-%d-%d-%d\n<br>",1900+p->tm_year,1+p->tm_mon,p->tm_mday,p->tm_hour,p->tm_min,p->tm_sec);
 	for(i=0;i<active_cnt;i++)
 	{
 	     fprintf(fp,"\n<li>%s %s</li>",active_list[i].ip,active_list[i].name);
