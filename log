@@ -79,8 +79,8 @@ fatal: A branch named 'master' already exists.
 To git@github.com:deballer/deballer.github.io.git
    a5c6ade..f26836e  master -> master
 wait..
-changed, 13 insertions(+), 12 deletions(-)
-To git@github.com:deballer/deballer.github.io.git
+fatal: A branch named 'master' already exists.
+it@github.com:deballer/deballer.github.io.git
    362c424..a5c6ade  master -> master
 wait..
 fatal: A branch named 'master' already exists.
