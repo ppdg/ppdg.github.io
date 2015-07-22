@@ -73,10 +73,10 @@ int main()
 	     fprintf(fp,"\n<li>%s %s</li>",active_list[i].ip,active_list[i].name);
 	}
 	fclose(fp);
-	system("git checkout -b gh-pages");
+	system("git checkout -b master");
 	system("git add .");
 	system("git commit -m \"e..\"");
-	system("git push -f origin gh-pages");
+	system("git push -f origin master");
 	fprintf(stderr,"wait..\n");
 	sleep(WT);
 	}
