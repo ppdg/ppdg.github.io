@@ -52,9 +52,8 @@ fatal: A branch named 'master' already exists.
 To git@github.com:deballer/deballer.github.io.git
    eeef151..912f011  master -> master
 wait..
-), 22 deletions(-)
- rewrite list.txt (60%)
-To git@github.com:deballer/deballer.github.io.git
+fatal: A branch named 'master' already exists.
+it@github.com:deballer/deballer.github.io.git
    9a8f110..eeef151  master -> master
 wait..
 fatal: A branch named 'master' already exists.
