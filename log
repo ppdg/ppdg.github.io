@@ -827,3 +827,12 @@ Already on 'master'
 M	index.html
 M	list.txt
 M	log
+[master d3db95e] e..
+ 3 files changed, 18 insertions(+), 8 deletions(-)
+To git@github.com:ppdg/ppdg.github.io.git
+   864661c..d3db95e  master -> master
+wait..
+Already on 'master'
+M	index.html
+M	list.txt
+M	log
