@@ -604,3 +604,12 @@ Already on 'master'
 M	index.html
 M	list.txt
 M	log
+[master ea11a50] e..
+ 3 files changed, 19 insertions(+), 9 deletions(-)
+To git@github.com:ppdg/ppdg.github.io.git
+   2ccd1bb..ea11a50  master -> master
+wait..
+Already on 'master'
+M	index.html
+M	list.txt
+M	log
