@@ -671,3 +671,13 @@ Already on 'master'
 M	index.html
 M	list.txt
 M	log
+[master a2f8d1a] e..
+ 3 files changed, 26 insertions(+), 16 deletions(-)
+ rewrite list.txt (61%)
+To git@github.com:ppdg/ppdg.github.io.git
+   3ef8469..a2f8d1a  master -> master
+wait..
+Already on 'master'
+M	index.html
+M	list.txt
+M	log
