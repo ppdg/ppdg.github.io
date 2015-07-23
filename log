@@ -235,3 +235,12 @@ Already on 'master'
 M	index.html
 M	list.txt
 M	log
+[master c1a6bb7] e..
+ 3 files changed, 17 insertions(+), 8 deletions(-)
+To git@github.com:ppdg/ppdg.github.io.git
+   9bb50fe..c1a6bb7  master -> master
+wait..
+Already on 'master'
+M	index.html
+M	list.txt
+M	log
