@@ -4997,3 +4997,13 @@ Already on 'master'
 M	index.html
 M	list.txt
 M	log
+[master bd97dac] e..
+ 3 files changed, 26 insertions(+), 16 deletions(-)
+ rewrite list.txt (61%)
+To git@github.com:ppdg/ppdg.github.io.git
+   1454d53..bd97dac  master -> master
+wait..
+Already on 'master'
+M	index.html
+M	list.txt
+M	log
