@@ -4,3 +4,13 @@ Already on 'master'
 M	index.html
 M	list.txt
 M	log
+[master 5ef46d9] e..
+ 4 files changed, 17 insertions(+), 9 deletions(-)
+ create mode 100644 nohup.out
+To git@github.com:ppdg/ppdg.github.io.git
+   c8ede09..5ef46d9  master -> master
+wait..
+Already on 'master'
+M	index.html
+M	list.txt
+M	nohup.out
