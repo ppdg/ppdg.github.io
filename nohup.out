@@ -935,3 +935,12 @@ Already on 'master'
 M	index.html
 M	list.txt
 M	nohup.out
+[master 28c7334] e..
+ 3 files changed, 21 insertions(+), 6 deletions(-)
+To git@github.com:ppdg/ppdg.github.io.git
+   bbeed15..28c7334  master -> master
+wait..
+Already on 'master'
+M	index.html
+M	list.txt
+M	nohup.out
