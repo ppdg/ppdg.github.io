@@ -16739,3 +16739,13 @@ Already on 'master'
 M	index.html
 M	list.txt
 M	nohup.out
+[master bf98031] e..
+ 3 files changed, 13 insertions(+), 4 deletions(-)
+Write failed: Broken pipe
+fatal: The remote end hung up unexpectedly
+fatal: The remote end hung up unexpectedly
+wait..
+Already on 'master'
+M	index.html
+M	list.txt
+M	nohup.out
