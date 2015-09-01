@@ -17571,3 +17571,15 @@ Already on 'master'
 M	index.html
 M	list.txt
 M	nohup.out
+[master 2bb3e98] e..
+ 3 files changed, 14 insertions(+), 5 deletions(-)
+ssh_exchange_identification: read: Connection reset by peer
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+wait..
+Already on 'master'
+M	index.html
+M	list.txt
+M	nohup.out
