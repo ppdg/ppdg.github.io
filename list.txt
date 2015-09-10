@@ -1,13 +1,13 @@
 
-Starting Nmap 5.21 ( http://nmap.org ) at 2015-09-10 10:03 CST
+Starting Nmap 5.21 ( http://nmap.org ) at 2015-09-10 10:18 CST
 Nmap scan report for 10.2.7.129
-Host is up (0.0018s latency).
+Host is up (0.0017s latency).
 Nmap scan report for 10.2.7.152
-Host is up (0.074s latency).
+Host is up (0.087s latency).
 Nmap scan report for 10.2.7.160
-Host is up (0.0083s latency).
+Host is up (0.0064s latency).
 Nmap scan report for 10.2.7.188
-Host is up (0.0023s latency).
+Host is up (0.00092s latency).
 Nmap scan report for 10.2.7.210
-Host is up (0.00012s latency).
-Nmap done: 128 IP addresses (5 hosts up) scanned in 1.81 seconds
+Host is up (0.000024s latency).
+Nmap done: 128 IP addresses (5 hosts up) scanned in 1.80 seconds
