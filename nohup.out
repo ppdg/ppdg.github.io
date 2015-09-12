@@ -26950,3 +26950,15 @@ Already on 'master'
 M	index.html
 M	list.txt
 M	nohup.out
+[master 8626190] e..
+ 3 files changed, 15 insertions(+), 2 deletions(-)
+ssh: Could not resolve hostname github.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+wait..
+Already on 'master'
+M	index.html
+M	list.txt
+M	nohup.out
