@@ -1,3 +1,3 @@
 
-Starting Nmap 5.21 ( http://nmap.org ) at 2015-09-12 10:00 CST
+Starting Nmap 5.21 ( http://nmap.org ) at 2015-09-12 10:15 CST
 Nmap done: 128 IP addresses (0 hosts up) scanned in 0.00 seconds

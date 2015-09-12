@@ -26937,3 +26937,16 @@ Already on 'master'
 M	index.html
 M	list.txt
 M	nohup.out
+[master e45b5dc] e..
+ 3 files changed, 14 insertions(+), 13 deletions(-)
+ssh: Could not resolve hostname github.com: Name or service not known
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+wait..
+mass_dns: warning: Unable to determine any DNS servers. Reverse DNS is disabled. Try using --system-dns or specify valid servers with --dns-servers
+Already on 'master'
+M	index.html
+M	list.txt
+M	nohup.out
