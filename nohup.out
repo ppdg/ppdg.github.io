@@ -27561,3 +27561,14 @@ Already on 'master'
 M	index.html
 M	list.txt
 M	nohup.out
+[master e206206] e..
+ 3 files changed, 14 insertions(+), 5 deletions(-)
+To git@github.com:ppdg/ppdg.github.io.git
+   f9bcadd..e206206  master -> master
+wait..
+Agent pid 23923
+Identity added: /home/wangfan/.ssh/ppdggh (/home/wangfan/.ssh/ppdggh)
+Already on 'master'
+M	index.html
+M	list.txt
+M	nohup.out
