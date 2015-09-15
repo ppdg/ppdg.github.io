@@ -27578,3 +27578,6 @@ M	nohup.out
 To git@github.com:ppdg/ppdg.github.io.git
    e206206..3462cf6  master -> master
 wait..
+Already on 'master'
+M	index.html
+M	list.txt
