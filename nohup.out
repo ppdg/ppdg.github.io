@@ -28229,3 +28229,9 @@ fatal: Could not read from remote repository.
 Please make sure you have the correct access rights
 and the repository exists.
 wait..
+Agent pid 18306
+Identity added: /home/wangfan/.ssh/ppdggh (/home/wangfan/.ssh/ppdggh)
+Already on 'master'
+M	index.html
+M	list.txt
+M	nohup.out
