@@ -38250,3 +38250,13 @@ Already on 'master'
 M	index.html
 M	list.txt
 M	nohup.out
+[master 1102607] e..
+ 3 files changed, 26 insertions(+), 16 deletions(-)
+ rewrite list.txt (61%)
+To git@github.com:ppdg/ppdg.github.io.git
+   9cb6da0..1102607  master -> master
+wait..
+Already on 'master'
+M	index.html
+M	list.txt
+M	nohup.out
