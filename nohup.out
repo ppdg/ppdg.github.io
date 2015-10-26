@@ -56110,3 +56110,13 @@ M	index.html
 M	list.txt
 M	nohup.out
 Your branch is up-to-date with 'origin/master'.
+[master 509c895] e..
+ 3 files changed, 12 insertions(+), 5 deletions(-)
+Agent pid 31205
+Identity added: /home/wangfan/.ssh/ppdggh (/home/wangfan/.ssh/ppdggh)
+Already on 'master'
+M	index.html
+M	list.txt
+M	nohup.out
+Your branch is ahead of 'origin/master' by 1 commit.
+  (use "git push" to publish your local commits)
