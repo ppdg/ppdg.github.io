@@ -56705,3 +56705,8 @@ Already on 'master'
 M	index.html
 M	list.txt
 Your branch is up-to-date with 'origin/master'.
+[master a15218f] e..
+ 3 files changed, 9 insertions(+), 8 deletions(-)
+To git@github.com:ppdg/ppdg.github.io.git
+   f0aba66..a15218f  master -> master
+wait..
