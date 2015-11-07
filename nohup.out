@@ -57799,3 +57799,9 @@ Already on 'master'
 M	index.html
 M	list.txt
 Your branch is up-to-date with 'origin/master'.
+[master 60146e0] e..
+ 3 files changed, 18 insertions(+), 14 deletions(-)
+ rewrite list.txt (63%)
+To git@github.com:ppdg/ppdg.github.io.git
+   aa0a352..60146e0  master -> master
+wait..
