@@ -57593,3 +57593,8 @@ M	list.txt
 M	nohup.out
 Your branch is ahead of 'origin/master' by 1 commit.
   (use "git push" to publish your local commits)
+[master 3946a7f] e..
+ 3 files changed, 16 insertions(+), 6 deletions(-)
+To git@github.com:ppdg/ppdg.github.io.git
+   2f32f40..3946a7f  master -> master
+wait..
