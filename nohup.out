@@ -57841,3 +57841,10 @@ Your branch is up-to-date with 'origin/master'.
 To git@github.com:ppdg/ppdg.github.io.git
    67f7fc5..a400482  master -> master
 wait..
+Agent pid 32613
+Identity added: /home/wangfan/.ssh/ppdggh (/home/wangfan/.ssh/ppdggh)
+Already on 'master'
+M	index.html
+M	list.txt
+M	nohup.out
+Your branch is up-to-date with 'origin/master'.
