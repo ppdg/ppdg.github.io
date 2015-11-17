@@ -59359,3 +59359,14 @@ M	index.html
 M	list.txt
 M	nohup.out
 Your branch is up-to-date with 'origin/master'.
+[master e380050] e..
+ 3 files changed, 26 insertions(+), 13 deletions(-)
+ rewrite list.txt (65%)
+To git@github.com:ppdg/ppdg.github.io.git
+   3bba182..e380050  master -> master
+wait..
+Already on 'master'
+M	index.html
+M	list.txt
+M	nohup.out
+Your branch is up-to-date with 'origin/master'.
