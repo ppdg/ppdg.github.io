@@ -65230,3 +65230,21 @@ M	log
 M	nohup.out
 M	on.txt
 Your branch is up-to-date with 'origin/master'.
+[master e5383c5] e..
+ 8 files changed, 22 insertions(+), 7 deletions(-)
+ mode change 100644 => 100755 CNAME
+ mode change 100644 => 100755 index.html
+ mode change 100644 => 100755 ipreport.cpp
+ mode change 100644 => 100755 known.conf
+ mode change 100644 => 100755 list.txt
+ mode change 100644 => 100755 log
+ mode change 100644 => 100755 nohup.out
+ mode change 100644 => 100755 on.txt
+To git@github.com:ppdg/ppdg.github.io.git
+   94d0c33..e5383c5  master -> master
+wait..
+Already on 'master'
+M	index.html
+M	list.txt
+M	nohup.out
+Your branch is up-to-date with 'origin/master'.
