@@ -66,7 +66,7 @@ int main()
 	}
 	if(fp) fclose(fp);
 
-	fp = fopen("index.html","w");
+	fp = fopen("/usr/local/nginx/html/index.html","w");
 	int i;
 	time_t timep;
 	struct tm * p;
@@ -78,11 +78,11 @@ int main()
 	     fprintf(fp,"\n<li>%s %s</li>",active_list[i].ip,active_list[i].name);
 	}
 	fclose(fp);
-	system("git checkout master");
-	system("git add .");
-	system("git commit -m \"e..\"");
-	system("git push -f origin master");
-	fprintf(stderr,"wait..\n");
+	//system("git checkout master");
+	//system("git add .");
+	//system("git commit -m \"e..\"");
+	//system("git push -f origin master");
+	//fprintf(stderr,"wait..\n");
 	sleep(WT);
 	}
 	return 0;
